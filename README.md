@@ -1,4 +1,5 @@
-![image](https://github.com/EveKristinLee/Capstone2021/assets/56919637/a2bb0467-18ad-441c-a57e-811a38e07973)
+<img width="922" alt="image" src="https://github.com/EveKristinLee/Capstone2021/assets/56919637/6d00af61-8891-4838-9be7-8ae61c4243ed">
+
 
 
 ## 📜 서비스 내용
